@@ -17,9 +17,10 @@ Github to me is a _brand new_ experience. I was able to learn a lot.
 ## Wishlist
 In the future, I hope to:
 
+- [ ] get a internship
+- [ ] graduate with good GPA
 - [ ] join FANG companies
 - [ ] become a charter engineer
-- [ ] graduate with good GPA
 - [ ] have my own company
 
 The Git Command:
