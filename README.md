@@ -1,5 +1,5 @@
 # CHOY Brian Kit Chun
-Hi, My name is Brian and I am a year 3 student study Computer Eningeering. 
+Hi, My name is Brian and I am a year 3 student studying Computer Eningeering. 
 
 Github username | Gerder | Std#
 --- | --- | ---
