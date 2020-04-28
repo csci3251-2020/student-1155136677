@@ -1,9 +1,10 @@
 # CHOY Brian Kit Chun
+Hi, My name is Brian and I am a year 3 student study Computer Eningeering. 
 
----
-|Nick Name: | Brian         |
-|StdID #:   |  1155136677   |
----
+|---|---|
+| Nick Name: | Brian       |
+| StdID #:   | 1155136677  |
+
 
 ## Something about myself as a developer
 Programing language that I know:
