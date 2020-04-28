@@ -1,9 +1,9 @@
 # CHOY Brian Kit Chun
 Hi, My name is Brian and I am a year 3 student study Computer Eningeering. 
 
-|---|---|
-| Nick Name: | Brian       |
-| StdID #:   | 1155136677  |
+Github username | Gerder | Std#
+--- | --- | ---
+choy0001| male | 1155136677
 
 
 ## Something about myself as a developer
