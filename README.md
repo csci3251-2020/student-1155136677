@@ -22,4 +22,5 @@ In the future, I hope to:
 - [ ] graduate with good GPA
 - [ ] have my own company
 
+The Git Command:
 ![Image of Project MileStone 2](https://raw.githubusercontent.com/csci3251-2020/student-1155136677/master/project_milestone2.png)
