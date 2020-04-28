@@ -14,4 +14,12 @@ Programing language that I know:
 ## Experience in Github
 Github to me is a _brand new_ experience. I was able to learn a lot.
 
+## Wishlist
+In the future, I hope to:
+
+- [ ] join FANG companies
+- [ ] become a charter engineer
+- [ ] graduate with good GPA
+- [ ] have my own company
+
 ![Image of Project MileStone 2](https://raw.githubusercontent.com/csci3251-2020/student-1155136677/master/project_milestone2.png)
